@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LifeTrack</string>
+    <string name="header_text">Welcome to the program</string>
+    <string name="program_name">LifeTrack</string>
+    <string name="button_inscription">Get Started</string>
+    <string name="authors_text">Authors:</string>
+    <string name="authors_name">Artem Kilivnik</string>
+
+
+    <string name="name_field_text">Enter your name</string>
+    <string name="pass_field_text">Enter the pass</string>
+    <string name="repeat_pass_field_text">Repeat the pass</string>
+    <string name="age_field_text">Enter your age</string>
+    <string name="height_field_text">Enter your height</string>
+    <string name="mass_field_text">Enter your mass</string>
+    <string name="male_checkbox_text">Male</string>
+    <string name="female_checkbox_text">Female</string>
+
+    <string name="confirm_button_text">Confirmation</string>
+
+    <string name="register_page_title_text">Register Page</string>
+</resources>
